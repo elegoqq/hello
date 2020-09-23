@@ -1,3 +1,4 @@
 hello world!
 good luck!
-study git
+study git!
+very good!
