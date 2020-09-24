@@ -9,5 +9,5 @@ hello boys!
 Creating a new branch is quick
 Creating a new branch is quick and simple.
 sky is blue!
-study c first!
-c is good!
+study c++ first!
+c++ is good!
